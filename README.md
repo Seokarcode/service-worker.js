@@ -2,7 +2,7 @@
 A service-worker.js file for a WordPress site to support PWA (Progressive Web App) features typically includes code for managing caches and handling network requests. Below is a simple service-worker.js example that you can use as a starting point:
 
 
-برای جایگزینی نام تم و مسیر فایل‌ها با `Seokar`، کد کامل برای `service-worker.js` به صورت زیر خواهد بود:
+برای جایگزینی نام تم خود را و مسیر فایل‌ها با کلمه  `Seokar`، کد کامل برای `service-worker.js` به صورت زیر خواهد بود:
 
 ```javascript
 const CACHE_NAME = 'my-site-cache-v3';
